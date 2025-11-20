@@ -9,6 +9,19 @@ Passionate iOS Developer with a focus on creating intuitive and user-friendly mo
 
 ## 🛠️ Technologies & Tools
 
+<p align="center">
+<!-- SwiftUI -->
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/SwiftUI-4B0082?style=flat%26logo=swift%26logoColor=white" alt="SwiftUI">
+<!-- Combine -->
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.shields.io/badge/Combine-FF4500?style=flat%26logo=apple%26logoColor=white" alt="Combine">
+<!-- Swift (язык) -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Swift-FA7343%3Fstyle%3Dflat%26logo%3Dswift%26logoColor%3Dwhite" alt="Swift">
+<!-- API (можно заменить на OpenWeatherMap, если вы его используете) -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/API-OpenWeatherMap-007ACC%3Fstyle%3Dflat%26logo%3Dopenweathermap%26logoColor%3Dwhite" alt="OpenWeatherMap">
+<!-- CoreData, если планируете его добавить для локального хранения -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CoreData-FF6D00%3Fstyle%3Dflat%26logo%3Dapple%26logoColor%3Dwhite" alt="CoreData">
+</p>
+
 **Languages:**  
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">

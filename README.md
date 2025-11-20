@@ -31,7 +31,14 @@ Passionate iOS Developer with a focus on creating intuitive and user-friendly mo
 - It helps users easily track income and expenses by visualizing statistics in clean and simple charts.
 - **Stack:** Swift, SwiftUI, Combine.
 
-### 2. [Event Calendar](https://github.com/MariaChernokoz/timetable-course-project)
+- https://github.com/MariaChernokoz/Sora-WeatherApp
+### 2. [Sora - WeatherApp](https://github.com/MariaChernokoz/Sora-WeatherApp)
+- A modern iOS weather tracking application centered around visual aesthetics.
+- **Unique Feature:** Provides a dynamic, animated background for each city and weather condition, sourced from **Studio Ghibli / Hayao Miyazaki** films.
+- The app tracks asynchronous data fetching for multiple locations and implements a custom video playback solution for seamless background looping.
+- **Stack:** Swift, SwiftUI, Combine.
+
+### 3. [Event Calendar](https://github.com/MariaChernokoz/timetable-course-project)
 - A web application for scheduling appointments.
 - I implemented the backend, managed the database, and built the frontend.
 - **Stack:** Python, Flask, PostgreSQL.

@@ -35,7 +35,7 @@ Passionate iOS Developer with a focus on creating intuitive and user-friendly mo
 ### 2. [Sora - WeatherApp](https://github.com/MariaChernokoz/Sora-WeatherApp)
 - A modern iOS weather tracking application centered around visual aesthetics.
 - **Unique Feature:** Provides a dynamic, animated background for each city and weather condition, sourced from **Studio Ghibli / Hayao Miyazaki** films.
-- **Stack:** Swift, SwiftUI, Combine, Weather API: Open Weather Map.
+- **Stack:** Swift, SwiftUI, Combine, WidgetKit, SwiftData, CoreLocation/MapKit, Weather API: Open Weather Map,.
 
 ### 3. [Event Calendar](https://github.com/MariaChernokoz/timetable-course-project)
 - A web application for scheduling appointments.
